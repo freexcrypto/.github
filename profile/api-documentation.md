@@ -2,7 +2,7 @@
 
 ## Base URL
 
-`https://freex.xyz/api`
+`https://api.freexcrypto.xyz/api`
 
 ## Endpoints
 
