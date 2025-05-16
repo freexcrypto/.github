@@ -79,4 +79,4 @@ For detailed API documentation and integration guides, please refer to our [API 
 
 ## Support
 
-If you have any questions or need assistance, feel free to reach out to our support team at <support@freex.com>. We’re here to help you succeed with cryptocurrency payments!
+If you have any questions or need assistance, feel free to reach out to our support team at <hello@freexcrypto.xyz>. We’re here to help you succeed with cryptocurrency payments!
